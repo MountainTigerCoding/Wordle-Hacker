@@ -1,2 +1,3 @@
 # Wordle-Hacker
-A C# program that can solve the game Wordle
+A C# bot that can solve the internet game Wordle using the shortest possible turns
+Wordle website: https://www.nytimes.com/games/wordle/index.html
